@@ -1,0 +1,3 @@
+class ValidateNumberTimeError < StandardError
+
+end
